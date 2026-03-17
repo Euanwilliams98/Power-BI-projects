@@ -16,3 +16,5 @@ Using a retail sales dataset, this project demonstrates how Power BI can be used
 
 ## Outcome
 The final dashboard provides an engaging and easy-to-understand view of **sales performance, product trends, and geographic insights**, showcasing practical **business intelligence and data visualisation skills**.
+
+<img width="1949" height="1097" alt="Screenshot 2026-02-11 143700" src="https://github.com/user-attachments/assets/9604c3e3-ab59-490d-9866-b5319dc83dbe" />
