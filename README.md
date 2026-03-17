@@ -109,4 +109,7 @@ This project demonstrates strong business intelligence, data analysis, and dashb
 
 ## 📸Sales Report
 
-<img width="500" height="300" alt="Screenshot 2026-02-11 143700" src="https://github.com/user-attachments/assets/9604c3e3-ab59-490d-9866-b5319dc83dbe" />
+[Link to my Report](https://app.powerbi.com/view?r=eyJrIjoiNTUxYTIwMDAtYjNkYy00MDEyLWJiNzItODUwYWJjM2JjMTVmIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+
+<img width="993" height="572" alt="Screenshot 2026-03-17 105801" src="https://github.com/user-attachments/assets/1ac662e9-5a55-4b9d-b2f2-5e60b99ae506" />
+
