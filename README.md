@@ -1,20 +1,109 @@
-# Power-BI-projects
+Power Bi Projects
 
-# Power BI Retail & Sales Dashboard
+🔍 Overview
 
-This project was completed during a **Data Technician Bootcamp** and focuses on analysing retail and sales data using **Microsoft Power BI**. The aim was to transform raw data into interactive dashboards that provide clear insights into sales performance and trends.
+This project was completed as part of a Data Technician Bootcamp. It focuses on using Power BI to clean, analyse, and visualise retail sales data, turning raw datasets into interactive dashboards that support data-driven decision-making.
 
-## Key Skills Demonstrated
-- **Data Transformation & Cleaning:** Used **Power Query** to clean, shape, and prepare datasets for analysis.
-- **Data Modelling & DAX:** Created **calculated columns and measures** using DAX to generate meaningful metrics.
-- **Interactive Reporting:** Implemented **slicers and filters** to allow users to explore the data dynamically.
-- **Data Visualisation:** Built a range of visuals including **bar charts, line charts, pie charts, and maps**.
-- **Data Storytelling:** Designed dashboards that clearly communicate key retail and sales insights.
+🚀 Skills Demonstrated
+✔️ Data Transformation & Cleaning (Power Query)
 
-## Project Overview
-Using a retail sales dataset, this project demonstrates how Power BI can be used to transform raw data into **interactive visual reports** that help identify trends, compare performance, and support data-driven decision-making.
+Importing and connecting to datasets
 
-## Outcome
-The final dashboard provides an engaging and easy-to-understand view of **sales performance, product trends, and geographic insights**, showcasing practical **business intelligence and data visualisation skills**.
+Cleaning and shaping data for analysis
 
-<img width="1949" height="1097" alt="Screenshot 2026-02-11 143700" src="https://github.com/user-attachments/assets/9604c3e3-ab59-490d-9866-b5319dc83dbe" />
+Handling missing values and correcting data types
+
+Filtering, renaming, and structuring columns
+
+Preparing datasets for efficient reporting
+
+✔️ Data Modelling & DAX
+
+Creating relationships between tables
+
+Building a structured and efficient data model
+
+Developing calculated columns and measures using DAX
+
+Generating key business metrics for analysis
+
+✔️ Data Visualisation
+
+Designing clear and impactful visuals:
+
+Bar charts
+
+Line charts
+
+Pie charts
+
+Maps
+
+Applying consistent formatting and themes
+
+Enhancing readability and usability of reports
+
+✔️ Interactive Reporting
+
+Implementing slicers and filters for dynamic exploration
+
+Enabling users to drill down into insights
+
+Creating user-friendly and interactive report pages
+
+✔️ Dashboard Design
+
+Building visually engaging dashboards
+
+Combining multiple visuals into a cohesive layout
+
+Highlighting key insights and performance indicators
+
+Structuring dashboards for business users
+
+📁 Repository Contents
+
+Power BI report files (.pbix)
+
+Dashboard screenshots and visuals
+
+Retail sales dataset (where applicable)
+
+Notes and project documentation
+
+🧠 Key Learning Outcomes
+
+This project strengthened my ability to:
+
+Transform raw data into analysis-ready datasets
+
+Build reliable and efficient data models
+
+Design professional, insight-driven reports
+
+Communicate business insights through visual storytelling
+
+Understand how data preparation impacts reporting accuracy
+
+🛠 Tools Used
+
+Microsoft Power BI Desktop
+
+Power Query Editor
+
+DAX (Data Analysis Expressions)
+
+Data Modelling & Relationship View
+
+📈 Outcome
+
+The final dashboard provides a clear and interactive view of:
+
+Sales performance
+
+Product trends
+
+Geographic insights
+
+This project demonstrates strong business intelligence, data analysis, and dashboard design skills, with a focus on delivering actionable insights.
+<img width="500" height="200" alt="Screenshot 2026-02-11 143700" src="https://github.com/user-attachments/assets/9604c3e3-ab59-490d-9866-b5319dc83dbe" />
