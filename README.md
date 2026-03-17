@@ -5,7 +5,7 @@
 This project was completed as part of a Data Technician Bootcamp. It focuses on using Power BI to clean, analyse, and visualise retail sales data, turning raw datasets into interactive dashboards that support data-driven decision-making.
 
 ## 🚀 Skills Demonstrated
-✔️ Data Transformation & Cleaning (Power Query)
+ Data Transformation & Cleaning (Power Query)
 
 Importing and connecting to datasets
 
