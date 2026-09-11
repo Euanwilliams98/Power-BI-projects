@@ -47,6 +47,18 @@ An interactive Power BI report that turns retail sales data into a clear perform
 The report provides an accessible view of sales performance, product trends and geographic patterns. It demonstrates preparation, modelling, calculation, validation and communication—not dashboard design alone.
 
 
+## Verified findings
+
+- **Technology** was the leading category with approximately **£886K in sales**, followed by Office Supplies at about £824K and Furniture at about £639K.
+- The **Consumer segment** contributed **52.64%** of sales, making it the largest customer segment.
+- Corporate customers accounted for **31.43%** of sales, while Home Office contributed **15.93%**.
+- Sales increased across every year displayed from **2011 to 2014**, rising from roughly £0.42M to £0.75M.
+- Profit followed a similar upward pattern, increasing from approximately £57K in 2011 to £85K in 2014.
+
+## Business recommendation
+
+Protect performance in Technology and the Consumer segment, which make the largest contributions. Investigate the products and countries behind their results, while testing targeted activity for the smaller Home Office segment rather than treating every customer group the same.
+
 ## Author
 
 **Euan Williams** — Junior Business Intelligence & Data Analyst  
