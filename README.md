@@ -46,12 +46,6 @@ An interactive Power BI report that turns retail sales data into a clear perform
 
 The report provides an accessible view of sales performance, product trends and geographic patterns. It demonstrates preparation, modelling, calculation, validation and communication—not dashboard design alone.
 
-## Next steps
-
-- Add a formal data dictionary and measure catalogue
-- Document headline findings with exact final-report values
-- Add a drill-through page for investigation
-- Introduce a refresh log and explicit quality checks
 
 ## Author
 
