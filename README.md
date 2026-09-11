@@ -1,115 +1,59 @@
-# Power Bi Projects
+# Sales Performance Dashboard | Power BI
 
-## 🔍 Overview
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black) ![Status](https://img.shields.io/badge/status-complete-2E8B57)
 
-This project was completed as part of a Data Technician Bootcamp. It focuses on using Power BI to clean, analyse, and visualise retail sales data, turning raw datasets into interactive dashboards that support data-driven decision-making.
+An interactive Power BI report that turns retail sales data into a clear performance view for users who need to monitor KPIs, compare products and regions, and explore trends without working directly with raw data.
 
-## 🚀 Skills Demonstrated
- Data Transformation & Cleaning (Power Query)
+## Dashboard
 
-Importing and connecting to datasets
+[Open the interactive Power BI report](https://app.powerbi.com/view?r=eyJrIjoiNTUxYTIwMDAtYjNkYy00MDEyLWJiNzItODUwYWJjM2JjMTVmIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
-Cleaning and shaping data for analysis
+![Sales Performance Dashboard](https://github.com/user-attachments/assets/1ac662e9-5a55-4b9d-b2f2-5e60b99ae506)
 
-Handling missing values and correcting data types
+## Business questions
 
-Filtering, renaming, and structuring columns
+- How is overall sales performance changing?
+- Which products, categories and locations perform most strongly?
+- Where should a user investigate underperformance?
+- How can interactive filtering make recurring reporting faster?
 
-Preparing datasets for efficient reporting
+## End-to-end workflow
 
- ## ✔️ Data Modelling & DAX
+1. **Import** source data into Power BI.
+2. **Prepare** fields in Power Query by correcting types and standardising columns.
+3. **Model** the data and define relationships.
+4. **Calculate** business measures and calculated columns with DAX.
+5. **Design** an interactive report with KPIs, trends, rankings, maps and slicers.
+6. **Validate** report totals against the prepared source data.
 
-Creating relationships between tables
+## Skills demonstrated
 
-Building a structured and efficient data model
+| Area | Evidence |
+|---|---|
+| Power Query | Data cleaning, shaping and type correction |
+| Data modelling | Table relationships and report-ready structure |
+| DAX | Measures and calculated columns for KPIs |
+| Visualisation | KPI cards, charts, maps and consistent formatting |
+| Interactivity | Slicers, filters and drill-down exploration |
+| Communication | A layout that moves from overview to detail |
 
-Developing calculated columns and measures using DAX
+## Repository contents
 
-Generating key business metrics for analysis
+- [Sales Report 2026.pbix](Sales%20Report%202026.pbix) — downloadable Power BI Desktop report
+- `README.md` — project context, workflow and demonstrated skills
 
-## ✔️ Data Visualisation
+## Outcome
 
-Designing clear and impactful visuals:
+The report provides an accessible view of sales performance, product trends and geographic patterns. It demonstrates preparation, modelling, calculation, validation and communication—not dashboard design alone.
 
-Bar charts
+## Next steps
 
-Line charts
+- Add a formal data dictionary and measure catalogue
+- Document headline findings with exact final-report values
+- Add a drill-through page for investigation
+- Introduce a refresh log and explicit quality checks
 
-Pie charts
+## Author
 
-Maps
-
-Applying consistent formatting and themes
-
-Enhancing readability and usability of reports
-
-## ✔️ Interactive Reporting
-
-Implementing slicers and filters for dynamic exploration
-
-Enabling users to drill down into insights
-
-Creating user-friendly and interactive report pages
-
-## ✔️ Dashboard Design
-
-Building visually engaging dashboards
-
-Combining multiple visuals into a cohesive layout
-
-Highlighting key insights and performance indicators
-
-Structuring dashboards for business users
-
-## 📁 Repository Contents
-
-Power BI report files (.pbix)
-
-Dashboard screenshots and visuals
-
-Retail sales dataset (where applicable)
-
-Notes and project documentation
-
-## 🧠 Key Learning Outcomes
-
-This project strengthened my ability to:
-
-Transform raw data into analysis-ready datasets
-
-Build reliable and efficient data models
-
-Design professional, insight-driven reports
-
-Communicate business insights through visual storytelling
-
-Understand how data preparation impacts reporting accuracy
-
-## 🛠 Tools Used
-
-Microsoft Power BI Desktop
-
-Power Query Editor
-
-DAX (Data Analysis Expressions)
-
-Data Modelling & Relationship View
-
-## 📈 Outcome
-
-The final dashboard provides a clear and interactive view of:
-
-Sales performance
-
-Product trends
-
-Geographic insights
-
-This project demonstrates strong business intelligence, data analysis, and dashboard design skills, with a focus on delivering actionable insights.
-
-## 📸Sales Report
-
-[Link to my Report](https://app.powerbi.com/view?r=eyJrIjoiNTUxYTIwMDAtYjNkYy00MDEyLWJiNzItODUwYWJjM2JjMTVmIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
-
-<img width="993" height="572" alt="Screenshot 2026-03-17 105801" src="https://github.com/user-attachments/assets/1ac662e9-5a55-4b9d-b2f2-5e60b99ae506" />
-
+**Euan Williams** — Junior Business Intelligence & Data Analyst  
+[View my full portfolio](https://github.com/Euanwilliams98)
