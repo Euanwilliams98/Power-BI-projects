@@ -1,8 +1,6 @@
 # Sales Performance Dashboard | Power BI
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black) ![Status](https://img.shields.io/badge/status-complete-2E8B57)
-
-An interactive Power BI report that turns retail sales data into a clear performance view for users who need to monitor KPIs, compare products and regions, and explore trends without working directly with raw data.
+I built this report to explore retail sales and make it easier to compare performance without having to work through the raw data. It brings the main sales figures, product comparisons and regional results into one interactive dashboard.
 
 ## Dashboard
 
@@ -10,56 +8,40 @@ An interactive Power BI report that turns retail sales data into a clear perform
 
 ![Sales Performance Dashboard](https://github.com/user-attachments/assets/1ac662e9-5a55-4b9d-b2f2-5e60b99ae506)
 
-## Business questions
+## How I built it
 
-- How is overall sales performance changing?
-- Which products, categories and locations perform most strongly?
-- Where should a user investigate underperformance?
-- How can interactive filtering make recurring reporting faster?
+1. Imported the sales data into Power BI.
+2. Used Power Query to check the columns, correct data types and prepare the data.
+3. Set up the data model and table relationships.
+4. Created DAX measures for the main sales and profit figures.
+5. Built the report using KPI cards, charts, maps and slicers.
+6. Checked the report totals against the prepared source data.
 
-## End-to-end workflow
+## What the report shows
 
-1. **Import** source data into Power BI.
-2. **Prepare** fields in Power Query by correcting types and standardising columns.
-3. **Model** the data and define relationships.
-4. **Calculate** business measures and calculated columns with DAX.
-5. **Design** an interactive report with KPIs, trends, rankings, maps and slicers.
-6. **Validate** report totals against the prepared source data.
+The report lets users look at sales by product, category, region and customer segment. Filters make it possible to narrow the view and compare different parts of the business.
 
-## Skills demonstrated
+The main patterns in the data were:
 
-| Area | Evidence |
-|---|---|
-| Power Query | Data cleaning, shaping and type correction |
-| Data modelling | Table relationships and report-ready structure |
-| DAX | Measures and calculated columns for KPIs |
-| Visualisation | KPI cards, charts, maps and consistent formatting |
-| Interactivity | Slicers, filters and drill-down exploration |
-| Communication | A layout that moves from overview to detail |
+- Technology had the highest sales at approximately £886K, followed by Office Supplies at £824K and Furniture at £639K.
+- The Consumer segment accounted for 52.64% of sales. Corporate contributed 31.43%, while Home Office contributed 15.93%.
+- Sales increased in each year shown, from around £0.42M in 2011 to £0.75M in 2014.
+- Profit also increased over that period, from approximately £57K to £85K.
 
-## Repository contents
+## A few points to investigate
 
-- [Sales Report 2026.pbix](Sales%20Report%202026.pbix) — downloadable Power BI Desktop report
-- `README.md` — project context, workflow and demonstrated skills
+Technology and Consumer customers make up the largest parts of the sales total, so they are useful starting points for a closer look. I would also compare the products and regions behind those figures and look at ways to improve performance in the smaller Home Office segment.
 
-## Outcome
+## Tools and techniques
 
-The report provides an accessible view of sales performance, product trends and geographic patterns. It demonstrates preparation, modelling, calculation, validation and communication—not dashboard design alone.
+Power BI, Power Query, DAX, data modelling, data validation, KPI reporting, charts, maps and interactive filters.
 
+## Files
 
-## Verified findings
-
-- **Technology** was the leading category with approximately **£886K in sales**, followed by Office Supplies at about £824K and Furniture at about £639K.
-- The **Consumer segment** contributed **52.64%** of sales, making it the largest customer segment.
-- Corporate customers accounted for **31.43%** of sales, while Home Office contributed **15.93%**.
-- Sales increased across every year displayed from **2011 to 2014**, rising from roughly £0.42M to £0.75M.
-- Profit followed a similar upward pattern, increasing from approximately £57K in 2011 to £85K in 2014.
-
-## Business recommendation
-
-Protect performance in Technology and the Consumer segment, which make the largest contributions. Investigate the products and countries behind their results, while testing targeted activity for the smaller Home Office segment rather than treating every customer group the same.
+- [Sales Report 2026.pbix](Sales%20Report%202026.pbix) – the Power BI Desktop report.
 
 ## Author
 
-**Euan Williams** — Junior Business Intelligence & Data Analyst  
-[View my full portfolio](https://github.com/Euanwilliams98)
+Euan Williams
+
+[View my other projects](https://github.com/Euanwilliams98)
